@@ -1,5 +1,7 @@
 **此项目展示Next14添加Next-Auth实现登录认证和Session获取。**
 
+**update: 添加Github OAuth2.0登录获取code功能**
+
 ## 依赖版本
 
 |           | 说明                   | version       |
