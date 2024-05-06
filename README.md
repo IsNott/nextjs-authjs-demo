@@ -15,11 +15,21 @@
 | dotenv    | 从文件加载环境变量     | 16.4.5        |
 | mysql2    | Nodejs mysql库         | 3.9.2         |
 
+## 实现功能
+Next-auth： 自定义密码，Github Providers功能。
 
+用户使用账号密码登录，正确获取session中的用户信息。
+
+Github Oauth登录，正确回调，并得到Oauth 授权码code。
+
+## feature
+Next-auth：Credentials/Github providers.
+
+User log in and fetch auth session info.
+
+Github oauth log in and call back correctly(call back get the oauth code).
 
 ## Getting Started
-
-
 
 ```bash
 npm run dev
